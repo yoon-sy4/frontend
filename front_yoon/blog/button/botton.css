@@ -1,0 +1,34 @@
+.member {
+  color: #7299ad;
+  border: 2px solid #75a0b8;
+  border-radius: 6px;
+  background-color: white;
+  font-size: x-large;
+}
+.boxModel {
+  color: black;
+  border: 2px solid #93e4c3;
+  border-radius: 6px;
+  background-color: #98eccb;
+  font-size: x-large;
+  padding-top: 2px;
+  font-weight: 600;
+}
+
+.background {
+  color: black;
+  border: 2px solid #8ec6eb;
+  border-radius: 6px;
+  background-color: #9dd7ff;
+  font-size: x-large;
+  padding-top: 2px;
+}
+
+.Font {
+  color: black;
+  border: 2px solid #bebaf5;
+  border-radius: 6px;
+  background-color: #c9c5ff;
+  font-size: x-large;
+  padding-top: 2px;
+}

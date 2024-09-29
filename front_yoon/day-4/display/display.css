@@ -1,0 +1,82 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  display: flex;
+
+  height: 200px;
+  width: 100vw;
+}
+.peach {
+  background-color: #f3a683;
+
+  width: 100%;
+}
+.yellow {
+  background-color: #f7d794;
+
+  width: 100%;
+}
+.blue {
+  background-color: #778beb;
+
+  width: 100%;
+}
+.red {
+  background-color: #e77f67;
+
+  width: 100%;
+}
+.magenta {
+  background-color: #cf6a87;
+
+  width: 100%;
+}
+
+.peach2 {
+  background-color: #f19066;
+
+  width: 100%;
+}
+.yellow2 {
+  background-color: #f5cd79;
+
+  width: 100%;
+}
+.blue2 {
+  background-color: #546de5;
+
+  width: 100%;
+}
+.red2 {
+  background-color: #e15f41;
+
+  width: 100%;
+}
+.magenta2 {
+  background-color: #c44569;
+
+  width: 100%;
+}
+.purple {
+  background-color: #786fa6;
+
+  width: 20%;
+}
+.pink {
+  background-color: #f8a5c2;
+
+  width: 20%;
+}
+.purple2 {
+  background-color: #574b90;
+
+  width: 20%;
+}
+.pink2 {
+  background-color: #f78fb3;
+
+  width: 20%;
+}
