@@ -1,0 +1,30 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+.color1{
+    background-color: red;
+}
+.color2{
+    background-color: black;
+}
+.color3{
+    background-color: rgb(104, 54, 54);
+    position: relative;
+    top: 30px;
+    left: 50px;
+    z-index: 1;
+}
+.color4{
+    background-color: rgb(117, 49, 49);
+    /* 포지션 위치 조정 속성 top, bottom .left, right필수 */
+    /* relative: 지금 위치에서 */
+    position: relative;
+
+}
