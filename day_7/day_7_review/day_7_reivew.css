@@ -1,0 +1,137 @@
+@font-face {
+  font-family: "FlightSans-Title";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2410-1@1.0/FlightSans-Title.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+/* 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.title {
+  font-family: "FlightSans-Title";
+}
+
+.h5_1 {
+  font-size: xx-small;
+  color: blue;
+}
+h1 {
+  font-size: x-large;
+}
+
+.h5_2 {
+  font-size: xx-small;
+  color: gray;
+}
+.icon {
+  display: flex;
+}
+
+.apple {
+  border: 1px solid grey;
+  border-radius: 6px;
+}
+.apple_icon {
+  font-size: larger;
+} */
+* {
+  font-family: "FlightSans-Title";
+}
+
+.first {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.motto {
+  color: skyblue;
+  font-size: 18px;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 50px;
+  gap: 10px;
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
+
+.sub {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+  gap: 5px;
+  color: gray;
+  margin-bottom: 30px;
+}
+.download {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  font-weight: 600;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 20px;
+  border: 1px solid grey;
+  border-radius: 16px;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.centered {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  font-size: 30px;
+}
+.button > .text {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+.android {
+  background-color: rgb(84, 84, 143);
+  color: white;
+}
+
+.icon {
+  font-size: 30px;
+}
